@@ -1,5 +1,10 @@
-{
-    "GameSettingConfigs": {
-
-    }
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>enableLongTimeBackgroundNetworkConnection</key>
+    <bool>true</bool>
+    <key>cannonBulletDuration</key>
+    <float>15.0</float>
+</dict>
+</plist>
